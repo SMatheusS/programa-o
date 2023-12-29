@@ -14,7 +14,7 @@ void main() {
 
   // lista dinamica, aceita todos os tipos de valores
   print("");
-  List<dynamic> lista = ["matheus", 18, 1.88, "theus", true];
+  List<dynamic> lista = ["matheus", 20, 1.80, "theus", true];
   print(lista);
   print(lista.length);
   print(lista[2]);
